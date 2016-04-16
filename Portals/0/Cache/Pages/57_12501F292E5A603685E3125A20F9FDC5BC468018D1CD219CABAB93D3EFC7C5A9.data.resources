@@ -1,0 +1,17 @@
+<div id="dnn_ctr368_HtmlModule_lblContent" class="Normal">
+	<div class="carousel slide" id="myCarousel">
+<ol class="carousel-indicators">
+    <li data-slide-to="0" class="active" data-target="#myCarousel"> </li>
+    <li data-slide-to="1" data-target="#myCarousel"> </li>
+    <li data-slide-to="2" data-target="#myCarousel"> </li>
+    <li data-slide-to="3" data-target="#myCarousel"> </li>
+</ol>
+<!-- Carousel items -->
+<div class="carousel-inner">
+<div class="item active"> <a title="banner 1" href="#"><img alt="" src="/dnn/portals/0/Images/ijtSlider1.png" /></a> </div>
+<div class="item"> <a title="banner 2" href="#"><img alt="" src="/dnn/portals/0/Images/ijtSlider2.png" /></a> </div>
+<div class="item"> <a title="banner 3" href="#"><img alt="" src="/dnn/portals/0/Images/ijtSlider3.png" /></a> </div>
+<div class="item"> <a title="banner 4" href="#"><img alt="" src="/dnn/portals/0/Images/Banner1.jpg" /></a> </div>
+</div>
+<!-- Carousel nav --> <a data-slide="prev" href="#myCarousel" class="carousel-control left">&lsaquo;</a> <a data-slide="next" href="#myCarousel" class="carousel-control right">&rsaquo;</a> </div>
+</div>
